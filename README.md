@@ -87,7 +87,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management
 * [Doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes
 * [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - Heyman continues where the above role-permission packages left off
-* [Laravel Sanctum] (https://laravel.com/docs/7.x/sanctum) - Authentication system for Single Page Apps and API tokens
+* [Laravel Sanctum](https://laravel.com/docs/7.x/sanctum) - Authentication system for Single Page Apps and API tokens
 
 ##### Utilities
 
